@@ -17,7 +17,7 @@ namespace PortfolioApp.Models
 
         public string BirthDate { get; set; }
 
-        public string PortfolioFileName { get; set; }
+        public string PhotoFileName { get; set; }
 
         public string UserRole { get; set; }
 
